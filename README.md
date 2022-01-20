@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagaoka1166&repo=homebridge-switchbot-for-mac)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaoka1166&layout=compact)
 <!--
 **nagaoka1166/nagaoka1166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
