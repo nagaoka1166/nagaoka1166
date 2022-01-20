@@ -1,7 +1,11 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nagaoka1166)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaoka1166&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nagaoka1166" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaoka1166&layout=compact" />
+</a>
 <!--
 **nagaoka1166/nagaoka1166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
