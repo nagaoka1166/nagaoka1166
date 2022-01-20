@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagaoka1166&repo=homebridge-switchbot-for-mac)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nagaoka1166)
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaoka1166&layout=compact)
 <!--
