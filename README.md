@@ -1,7 +1,6 @@
 Welcome to my page! I am a junior at a Japanese university majoring in faculty of sports and health science 
 
 - 🧞‍♂️ me : Ryunosuke Nagaoka
-- 🇯🇵 from : Japan
 - 📗 qiita : https://qiita.com/nosuke_engineer
 - 🐣 twitter : https://twitter.com/mf6zo
 - 🌱 technical interest : Rails, Next.js, OpenSQL, Schema Driven Development,
