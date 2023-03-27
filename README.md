@@ -2,7 +2,7 @@ Welcome to my page! I am a junior at a Japanese university majoring in faculty o
 
 - 🧞‍♂️ me : Ryunosuke Nagaoka
 - 📗 qiita : https://qiita.com/nosuke_engineer
-- 📗 zenn : https://zenn.com/nosuke_engineer
+- 📘 zenn : https://zenn.dev/nosuke_engineer
 - 🐣 twitter : https://twitter.com/mf6zo
 - 🌱 technical interest : Rails, Next.js, OpenSQL, Schema Driven Development,
 
