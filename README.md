@@ -9,7 +9,6 @@ Welcome to my page! I am a junior at a Japanese university majoring in faculty o
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaoka1166&show_icons=true&count_private=true&theme=vision-friendly-dark&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nagaoka1166&hide=stars&count_private=true&layout=compact&show_icons=ture&theme=vision-friendly-dark" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
