@@ -4,7 +4,7 @@ Welcome to my page! I am a junior at a Japanese university majoring in faculty o
 - 📗 qiita : https://qiita.com/nosuke_engineer
 - 📘 zenn : https://zenn.dev/nosuke_engineer
 - 🐣 twitter : https://twitter.com/mf6zo
-- 🌱 technical interest : Rails, Next.js, OpenSQL, Schema Driven Development,
+- 🌱 technical interest : Rails, Go, AWS, GraphQL
 
 
 <p align="left"> 
