@@ -1,4 +1,6 @@
-Welcome to my page! I am a junior at a Japanese university majoring in faculty of sports and health science 
+Welcome to my page! 
+
+I am a junior at a Japanese university majoring in faculty of sports and health science 
 
 - 🧞‍♂️ me : Ryunosuke Nagaoka
 - 📗 qiita : https://qiita.com/nosuke_engineer
