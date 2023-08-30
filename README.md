@@ -2,7 +2,7 @@ Welcome to my page!
 
 I am a junior at a Japanese university majoring in faculty of sports and health science 
 
-- 🧞‍♂️ me : Ryunosuke Nagaoka
+- 🧞‍♂️ me : Ryunosuke Nagaoka (長岡 柳乃輔)
 - 📗 qiita : https://qiita.com/nosuke_engineer
 - 📘 zenn : https://zenn.dev/nosuke_engineer
 - 🐣 twitter : https://twitter.com/mf6zo
