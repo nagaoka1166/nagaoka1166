@@ -6,7 +6,7 @@ I am a junior at a Japanese university majoring in faculty of sports and health 
 - 📗 qiita : https://qiita.com/nosuke_engineer
 - 📘 zenn : https://zenn.dev/nosuke_engineer
 - 🐣 twitter : https://twitter.com/mf6zo
-- 🌱 technical interest : Rails, Go, AWS, GraphQL
+- 🌱 technical interest : Rails, Go, AWS
 
 
 <p align="left"> 
